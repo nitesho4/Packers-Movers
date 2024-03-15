@@ -17,6 +17,7 @@ Gallery: Visual representation of our past projects, showcasing our expertise an
 To set up the Packers and Movers website locally or on a server, follow these steps:
 
 1.Clone the repository to your local machine using git clone.
+https://github.com/nitesho4/Packers-Movers.git
 2.Navigate to the project directory and install dependencies using npm install or yarn install.
 3.Configure environment variables as needed, such as API keys or database connection strings.
 4.Build the project using npm run build or yarn build.
